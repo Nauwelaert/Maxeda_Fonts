@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'RubrikNew';
+    src: url('RubrikNew-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RubrikNew';
+    src: url('RubrikNew-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RubrikNew';
+    src: url('RubrikNew-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RubrikNew';
+    src: url('RubrikNew-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
